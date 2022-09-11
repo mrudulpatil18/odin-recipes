@@ -1,0 +1,18 @@
+h1{
+    font-weight: bold;
+    font-size: 46px;
+}
+h3{
+    font-weight: bold;
+    font-size: 40px;
+}
+ul,
+ol,
+p{
+    font-size: 32px;
+
+}
+img{
+    height: 500px;
+    width: auto;
+}
